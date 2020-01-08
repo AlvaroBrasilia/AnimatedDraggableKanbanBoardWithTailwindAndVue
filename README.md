@@ -1,2 +1,0 @@
-# AnimatedDraggableKanbanBoardWithTailwindAndVue
-Created with CodeSandbox
